@@ -1,4 +1,4 @@
 remote_theme: zerostaticthemes/jekyll-serif-theme
-baseurl: "/jekyll-serif-theme/"
+baseurl: "/"
 plugins: 
 - jekyll-remote-theme
