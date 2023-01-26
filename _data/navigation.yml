@@ -1,0 +1,8 @@
+"en-GB":
+  nav:
+    - title: Our services
+      url: /services
+    - title: How can we help?
+      url: /help
+    - title: Our Focus
+      url: /focus
