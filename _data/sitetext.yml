@@ -7,3 +7,5 @@
         icon: "fab fa-twitter"
       - url: https://awscommunity.social/@Gyja
         icon: "fab fa-mastodon"
+      - url: mailto:jason@xlcloud.co.uk
+        icon: "fa fa-at"
