@@ -39,3 +39,21 @@ img.center {
     box-shadow: 0 0 0.5em #666;
     max-width: 90vw;
 }
+
+h1,h2,h3 {
+    text-shadow: 0 0.05em 0.05em #999;
+}
+
+h1 {
+    margin-bottom: 0.5em;
+    box-shadow: 0 0.1em 0.1em -0.1em #999;
+    padding-bottom: 0.25em;
+}
+
+h2:not(:first-child) {
+    margin-top: 0.5em;
+}
+
+p {
+    padding-left: 0.5em;
+}
