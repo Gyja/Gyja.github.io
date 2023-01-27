@@ -10,4 +10,4 @@ As a result, we are able to work with more than the modern DNB (Digital Native B
 
 ## 
 
-![Jason](/assets/images/jason.jpeg)
+![Jason](/assets/images/beetle9.jpeg)
