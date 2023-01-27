@@ -2,7 +2,9 @@
 
 ## AWS review and optimisation
 
-We can analyse your current AWS usage and identify areas where you can reduce costs without compromising on performance or security. We use cost optimisation tools and techniques to help you optimise your AWS environment, such as Reserved Instances, Auto Scaling, and AWS Cost Explorer.
+We can analyse your current AWS usage and identify areas where you can reduce costs without compromising on performance or security. 
+
+We use cost optimisation tools and techniques to help you optimise your AWS environment, such as Reserved Instances, Auto Scaling, and AWS Cost Explorer.
 
 ## FinOps
 
