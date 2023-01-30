@@ -43,7 +43,7 @@ You are not required to pay any charge for exercising your rights. If you make a
 
 Please contact us at jason@xlcloud.co.uk if you wish to make a request.
  
-## How to complain
+### How to complain
 If you have any concerns about our use of your personal information, you can make a complaint to us at jason@xlcloud.co.uk
 
 
