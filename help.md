@@ -36,7 +36,6 @@ Amazon Web services is huge and complex at the best of times, and we bring exper
 
 ## Engineering teams - The builders
 
-
 ### Through the looking glass 
 
 We work with your teams to advise on the technical elements that would allow them to understand and instrument the costs associated in delivery against the business objectives. Forewarned is forearmed, so at the very least you will be able to bear witness to the increasing costs. 
