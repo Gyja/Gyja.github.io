@@ -2,7 +2,7 @@
 
 We help our customers *really* understand AWS, both technically and understanding the underlying messaging (culture),  working backwards from the business value. The technology is the replaceable part! 
 
-## C Suite - The visionaries
+## Senior stakeholders
 
 From working backwards from the business objectives, understanding the mindset shift, getting to grips with the Amazon culture, we can:
 
@@ -18,27 +18,26 @@ From working backwards from the business objectives, understanding the mindset s
 * Building teams: 
     Finding the people with the skills in your organisation is key for the delivery of your visions on your Cloud Transformation.  We can help with this process of establishing if you have the right skills and qualifications you need to deliver your cloud transformation. Decide which roles you can fill in-house, which require the upskilling of existing staff, which need new hires and which should be outsourced.
 
-## Finance team  - The bastions
+## Finance team
 
 XLCloud brings a deep understanding and transparency of your AWS bills. 
 
 From “WTaF is that!?” a discovery of those elements that lead to that “Shock bill” to a strategic view on managing the costs going forward. 
 
-Amazon Web services is huge and complex at the best of times, and we bring expertise and clarity to what often looks as clear as mud. 
+Amazon Web services is huge and complex at the best of times, and we bring expertise and clarity to help you navigate the complexity what often looks as clear as mud. 
 
 * Awareness and a common vocabulary:
-    More often than not, in our experience, the teams responsible for understanding the spend are not aware of the cloud and what it delivers. By educating around these elements with your teams, we can assist your finance teams to understand what these bills mean and how to help make them have more contextual. This brings better cohesion to between teams; cost and deployment. 
+    More often than not, the teams responsible for understanding the spend are not aware AWS and what it delivers. By educating your teams, we can assist you teams to understand what these bills mean and how to help make them have more context. This brings better cohesion to between teams; cost and deployment. 
 
 * In bringing more transparency as well as a deeper understanding of what all these billing SKU’s are for the Finance team, we can remove a lot of the FUD (Fear, uncertainty, doubt) on your AWS environment. 
-* We can educate the engineering teams to better understand what your requirements are which leads to a better trust in the spend on AWS. 
+* We can educate the engineering teams to better understand finacial requirements are which leads to a better trust across you business and understand the spend on AWS. 
 
-* Bringing and common understanding between the teams, (C-Suite vision, Engineering talent, Finance),  together with the information shared by all parties adds context to your relationship with Amazon. This context all adds to a narrative that we can work with Amazon to negotiate better spending deals on AWS. Do this once you have done all the business and technical optimisation, trust me - it saves tears in beers.
+* Bringing and common understanding between the teams, C-Suite, Engineering, Finance together with the information shared by all parties adds context to your relationship with Amazon. 
 
-## Engineering teams - The builders
 
-### Through the looking glass 
+## Engineering
 
-We work with your teams to advise on the technical elements that would allow them to understand and instrument the costs associated in delivery against the business objectives. Forewarned is forearmed, so at the very least you will be able to bear witness to the increasing costs. 
+We work with your teams to advise on the technical elements that would allow them to understand and instrument the costs associated in delivery against the business objectives. Forewarned is forearmed, so at the very least you will be able to bear witness to the increasing costs with the right context against the business needs. 
 
 Having data points is the first step in gaining information - > Knowledge -> Wisdom.  
 
