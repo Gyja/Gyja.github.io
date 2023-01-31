@@ -1,0 +1,44 @@
+- title: Cost Optimisation
+  style: primary
+  icon: wallet
+  blurb: We are specialists in the field of cost optimisation. From “low hanging fruit” to purchase plans all the way to supporting you working directly with AWS.
+  button: Learn more
+  bullets:
+    - Business model
+    - Bill review
+    - Architecture review
+    - Right sizing
+    - Pricing models
+
+- title: Cloud Transformation
+  style: success
+  icon: code-compare
+  blurb: We help with the undiffentiated AWS know how so you focus on you business. Cloud is a lot more than technology, AWS is a mindset shift and we can take you through each step of your journey from the initial idea to delivery.
+  button: Let's go!
+  bullets:
+    - Cloud Migrations
+    - Landing Zones
+    - Application modernisation
+
+- title: Technical architecture 
+  style: warning
+  icon: network-wired
+  blurb: With decades of IT and AWS experience under our belt we give you the benefit of our experienced technical ownership and oversight. We design efficient, well architected solutions for your needs, big and small. We will work closely with your stakeholders, evangelise the business and technical objectives and help you deliver on reliable, secure and trusted solutions.
+  button: Let's Build!
+  bullets:
+    - Account structure 
+    - Architecture review
+    - Technical evagilisum 
+
+- title: AWS Partnership
+  style: error
+  icon: handshake
+  blurb: Recently we have just elevated an AWS Partner to the highest tier in AWS. From the inital idenification of the next compentcy to drive greater customer adoption (+revenue), to the designing and implementing the operational requirement to keep building on AWS partnership, we can help.
+  button: We can help
+  bullets:
+    - AWS Premier Partner
+    - AWS Migration Acceleration Program (MAP)
+    - AWS Managed Service Provider (MSP)
+    - AWS Well-Architected Partner Program (WAfR)
+    - AWS Solution Provider Program (SPP)  
+    - AWS Partner Led Business/Enterprise support (PLBS/PLES)
