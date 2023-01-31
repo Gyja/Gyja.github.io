@@ -1,0 +1,27 @@
+---
+layout: base
+---
+<div class="nes-container with-title">
+    <h2 class="title">{{page.title}}</h2>
+
+    {{content}}
+</div>
+
+{%for panel in site.data.panels%}
+    <h2 class="nes-text is-{{panel.style}}"><i class="fa-solid fa-{{panel.icon}}"></i> {{panel.title}}</h2>
+
+    <div class="panel">
+        <div class="nes-container">
+            <ul class="nes-list is-circle">
+                {%for bullet in panel.bullets%}
+                    <li>{{bullet}}</li>
+                {%endfor%}
+            </ul>
+        </div>
+
+        <div class="nes-balloon from-left">
+            <p>{{panel.blurb}}</p>
+            <p><a class="nes-btn is-{{panel.style}}" href="mailto:jason@xlcloud.co.uk?subject={{panel.title}}">{{panel.button}}</a></p>
+        </div>
+    </div>
+{%endfor%}

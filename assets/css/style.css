@@ -3,6 +3,8 @@
     background-image: url("/assets/images/mastodon.png");
     width: 64px;
     height: 64px;
+    transform: scale(1) !important;
+    margin: 0 !important;
 }
 
 body {
@@ -18,16 +20,25 @@ header, footer {
     text-align: center;
 }
 
+header a, header a:hover, header a:visited {
+    text-decoration: none;
+    color: white;
+}
+
 .center {
     width: 100%;
 }
 
-h2, nav, .center {
+nav, .center {
     text-align: center !important;
 }
 
-.panel, .blurb {
+main {
     max-width: 60em;
+}
+
+main>* {
+    margin: 1em auto !important;
 }
 
 .panel {
@@ -50,4 +61,9 @@ h2, nav, .center {
 
 .panel>.nes-balloon.from-right {
     margin-right: 3em;
+}
+
+.page {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }

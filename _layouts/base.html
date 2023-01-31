@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>XLcloud</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/9e00bb22e4.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+        <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+        <link href="/assets/css/style.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <header class="nes-container is-dark">
+            <h1><a href="/">XLcloud</a></h1>
+        </header>
+
+        <nav>
+            {%for social in site.data.socials%}
+                <a target="_blank" href="{{social.url}}"><i class="nes-icon is-large {{social.icon}}"></i></a>
+            {%endfor%}
+        </nav>
+
+        <main>
+            {{content}}
+        </main>
+
+        <footer class="nes-container">
+            <p class="nes-text is-disabled">Copyright &copy; 2023, XLcloud Ltd.</p>
+        
+            <p class="center"><a class="nes-btn is-success" href="mailto:jason@xlcloud.co.uk">Contact Us</a></p>
+
+            <p class="nes-text is-disabled"><a href="/legal.html">Privacy Policy</a></p>
+        </footer>
+    </body>
+</html>
