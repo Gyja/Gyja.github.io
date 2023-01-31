@@ -1,0 +1,53 @@
+.mastodon {
+    display: inline-block;
+    background-image: url("/assets/images/mastodon.png");
+    width: 64px;
+    height: 64px;
+}
+
+body {
+    max-width: 65em;
+    margin: 0 auto;
+}
+
+body>* {
+    margin: 1em auto !important;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.center {
+    width: 100%;
+}
+
+h2, nav, .center {
+    text-align: center !important;
+}
+
+.panel, .blurb {
+    max-width: 60em;
+}
+
+.panel {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1em;
+    align-items: flex-start;
+}
+
+.panel ul>li {
+    margin-bottom: 0.5em;
+}
+
+.panel>.nes-balloon {
+}
+
+.panel>.nes-balloon.from-left {
+    margin-left: 3em;
+}
+
+.panel>.nes-balloon.from-right {
+    margin-right: 3em;
+}
