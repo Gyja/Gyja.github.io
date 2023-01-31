@@ -45,3 +45,16 @@ We help with the undiffentiated AWS know how so you focus on you business. Cloud
 
 With decades of IT and AWS experience under our belt we give you the benefit of our experienced technical ownership and oversight. 
 We design efficient, well architected solutions for your needs, big and small. We will work closely with your stakeholders, evangelise the business and technical objectives and help you deliver on reliable, secure and trusted solutions. 
+
+
+## AWS Partnership
+
+* AWS Premier Partner
+* AWS Migration Acceleration Program (MAP)
+* AWS Managed Service Provider (MSP)
+* AWS Well-Architected Partner Program (WAfR)
+* AWS Solution Provider Program (SPP)  
+* AWS Partner Led Business/Enterprise support (PLBS/PLES)
+
+Recently we have just elevated an AWS Partner to the highest tier in AWS. From the inital idenification of the next compentcy to drive greater customer adoption (+revenue), to the designing and implementing the operational requirement to keep building on AWS partnership, we can help. 
+
