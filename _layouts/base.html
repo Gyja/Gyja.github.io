@@ -35,15 +35,17 @@
             -->
         </header>
 
-        <div class="anim hippo">
-            <img src="/assets/images/hippo.png" />
-        </div>
+        <div class="container nav-container">
+            <div class="anim hippo">
+                <img src="/assets/images/hippo.png" />
+            </div>
 
-        <nav>
-            {%for social in site.data.socials%}
-                <a target="_blank" href="{{social.url}}"><i class="nes-icon is-large {{social.icon}}"></i></a>
-            {%endfor%}
-        </nav>
+            <nav>
+                {%for social in site.data.socials%}
+                    <a target="_blank" href="{{social.url}}"><i class="nes-icon is-large {{social.icon}}"></i></a>
+                {%endfor%}
+            </nav>
+        </div>
 
         <main>
             {{content}}

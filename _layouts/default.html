@@ -9,6 +9,7 @@ layout: base
 </div>
 
 {%for panel in site.data.panels%}
+<div class="container">
     <div class="anim {{panel.mascot}}">
         <img src="/assets/images/{{panel.mascot}}.png" />
     </div>
@@ -29,4 +30,5 @@ layout: base
             <p><a class="nes-btn is-{{panel.style}}" href="mailto:jason@xlcloud.co.uk?subject={{panel.title}}">{{panel.button}}</a></p>
         </div>
     </div>
+</div>
 {%endfor%}
