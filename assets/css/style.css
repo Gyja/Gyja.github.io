@@ -114,15 +114,17 @@ main>* {
     animation-duration: 14s;
 }
 
-@keyframes mutt {
-    0%   {transform: translateX(-64px) scale(0.5,2);}
-    50%   {transform: translateX(50vw) scale(2,0.5);}
-    100%   {transform: translateX(100vw) scale(0.5,2);}
+@keyframes cloud {
+    0%   {transform: translateX(-64px) scale(0.75,1.5);}
+    25%   {transform: translateX(25vw) scale(1.5,0.75);}
+    50%   {transform: translateX(50vw) scale(0.75,1.5);}
+    75%   {transform: translateX(75vw) scale(1.5,0.75);}
+    100%   {transform: translateX(100vw) scale(0.75,1.5);}
 }
 
-.mutt img {
-    animation-duration: 6s;
-    animation-name: mutt;
+.cloud img {
+    animation-duration: 5s;
+    animation-name: cloud;
     animation-timing-function: linear;
     animation-direction: alternate;
 }
