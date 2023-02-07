@@ -1,6 +1,7 @@
 - title: Cost Optimisation
   style: primary
   icon: wallet
+  mascot: beaver
   blurb: >
     We are specialists in the field of cost optimisation.
     From “low hanging fruit” to purchase plans all the way to supporting you working directly with AWS.
@@ -15,6 +16,7 @@
 - title: Cloud Transformation
   style: success
   icon: code-compare
+  mascot: mutt
   blurb: >
     We help with the undifferentiated AWS know-how so you focus on your business.
     Cloud is a lot more than technology; AWS is a mindset-shift
@@ -28,6 +30,7 @@
 - title: Technical architecture 
   style: warning
   icon: network-wired
+  mascot: bunny
   blurb: > 
     With decades of IT and AWS experience under our belt we give you the benefit of our experienced technical ownership and oversight.
     We design efficient, well architected solutions for your needs, big and small.
@@ -42,6 +45,7 @@
 - title: AWS Partnership
   style: error
   icon: handshake
+  mascot: moo
   blurb: >
     Recently we have just elevated an AWS Partner to the highest tier in AWS.
     From the inital identification of the next competency to drive greater customer adoption (and revenue),

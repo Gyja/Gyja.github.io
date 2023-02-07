@@ -7,6 +7,11 @@
     margin: 0 !important;
 }
 
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
     max-width: 65em;
     margin: 0 auto;
@@ -82,4 +87,95 @@ main>* {
 .page {
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
+}
+
+@keyframes slide {
+    0%   {transform: translateX(-64px);}
+    50%   {transform: translateX(100vw) rotate(360deg);}
+    100%   {transform: translateX(-64px);}
+}
+
+.anim {
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.anim img {
+    position: absolute;
+    top: -16px;
+    max-width: 64px;
+    max-height: 64px;
+    animation: slide ease-in-out infinite;
+    z-index: -1;
+}
+
+.beaver img {
+    animation-duration: 14s;
+}
+
+@keyframes mutt {
+    0%   {transform: translateX(-64px) scale(0.5,2);}
+    50%   {transform: translateX(50vw) scale(2,0.5);}
+    100%   {transform: translateX(100vw) scale(0.5,2);}
+}
+
+.mutt img {
+    animation-duration: 6s;
+    animation-name: mutt;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+@keyframes bunny {
+    0% {transform: translate3d(50vw,0,-10em); z-index: -2;}
+    25%   {transform: translate3d(50vw,32px,0) rotate3d(1,0,0,90deg); z-index: -2;}
+    26%   {transform: translate3d(50vw,32px,0) rotate3d(1,0,0,90deg); z-index: 2;}
+    50%   {transform: translate3d(50vw,0,10em) rotate3d(1,0,0,180deg); z-index: 2;}
+    75%   {transform: translate3d(50vw,-32px,0) rotate3d(1,0,0,270deg); z-index: 2;}
+    76%   {transform: translate3d(50vw,-32px,0) rotate3d(1,0,0,270deg); z-index: -2;}
+    99% {transform: translate3d(50vw,0,-10em) rotate3d(1,0,0,360deg); z-index: -2;}
+    100% {transform: translate3d(50vw,0,-10em) rotate3d(1,0,0,360deg); z-index: -2;}
+}
+
+@keyframes bunny2 {
+    0% {left: -50vw;}
+    100% {left: 50vw;}/* transform: translateX(-64px);}*/
+}
+
+.bunny {
+    animation: bunny2 10s infinite alternate linear;
+}
+
+.bunny img {
+    animation-duration: 2s;
+    animation-name: bunny;
+    animation-timing-function: linear;
+    z-index: -2;
+    top: -1.5em;
+}
+
+@keyframes moo {
+    0%   {transform: translateX(-64px);}
+    40%   {transform: translateX(50vw) rotate(360deg);}
+    50%   {transform: translateX(50vw) rotate(360deg);}
+    60%   {transform: translateX(50vw) rotate(360deg);}
+    100%   {transform: translateX(100vw) rotate(720deg);}
+}
+
+.moo img {
+    animation-duration: 8s;
+    animation-name: moo;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes hippo {
+    0%   {transform: translateX(100vw);}
+    50%   {transform: translateX(-64px) rotate3d(1,0.5,-0.25,360deg);}
+    100%   {transform: translateX(100vw);}
+}
+
+.hippo img {
+    animation-duration: 9s;
+    animation-name: hippo;
 }

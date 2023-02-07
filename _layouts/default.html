@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 <div class="nes-container with-title">
     <h2 class="title">{{page.title}}</h2>
 
@@ -8,6 +9,10 @@ layout: base
 </div>
 
 {%for panel in site.data.panels%}
+    <div class="anim {{panel.mascot}}">
+        <img src="/assets/images/{{panel.mascot}}.png" />
+    </div>
+
     <h2 class="nes-text is-{{panel.style}}"><i class="fa-solid fa-{{panel.icon}}"></i> {{panel.title}}</h2>
 
     <div class="panel">
