@@ -25,7 +25,7 @@ header, footer {
     text-align: center;
 }
 
-header a, header a:hover, header a:visited {
+header h1 a, header h1 a:hover, header h1 a:visited {
     text-decoration: none;
     color: white;
 }
