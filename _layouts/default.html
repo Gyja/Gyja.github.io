@@ -26,7 +26,8 @@ layout: base
         </div>
 
         <div class="nes-balloon from-left">
-            <p>{{panel.blurb}}</p>
+            {% capture my_include %}{% include {{panel.file}}.md %}{% endcapture %}
+            <p>{{ my_include | markdownify }}</p>
             <p><a class="nes-btn is-{{panel.style}}" href="mailto:jason@xlcloud.co.uk?subject={{panel.title}}">{{panel.button}}</a></p>
         </div>
     </div>

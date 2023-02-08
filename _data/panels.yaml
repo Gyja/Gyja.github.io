@@ -2,9 +2,7 @@
   style: primary
   icon: wallet
   mascot: beaver
-  blurb: >
-    We are specialists in the field of cost optimisation.
-    From “low hanging fruit” to purchase plans all the way to supporting you working directly with AWS.
+  file: optimisation
   button: Learn more
   bullets:
     - Business model
@@ -18,25 +16,18 @@
   style: success
   icon: code-compare
   mascot: cloud
-  blurb: >
-    We help with the undifferentiated AWS know-how so you focus on your business.
-    Cloud is a lot more than technology; AWS is a mindset-shift
-    and we can take you through each step of your journey from the initial idea to delivery.
+  file: transformation
   button: Let's go!
   bullets:
     - Cloud migrations
     - Landing zones
     - Application modernisation
 
-- title: Technical architecture 
+- title: Technical Architecture 
   style: warning
   icon: network-wired
   mascot: bunny
-  blurb: > 
-    With decades of IT and AWS experience under our belt we give you the benefit of our experienced technical ownership and oversight.
-    We design efficient, well architected solutions for your needs, big and small.
-    We will work closely with your stakeholders, evangelise your business and technical objectives
-    and help you deliver on reliable, secure, and trusted solutions.
+  file: architecture
   button: Let's Build!
   bullets:
     - Account structure 
@@ -47,23 +38,7 @@
   style: error
   icon: handshake
   mascot: moo
-  blurb: >
-
-  We can help with your partnership with Amazon. Just starting? Got a few competencie's already? 
-  We have the experience and the knowhow to help you achieve AWS Premier Partners's of Amazon. 
-  Where will help \:/
-    - Speed up your certification
-    - Deep understanding of the Amazon culture
-    - Derive more value to you and your customers
-  From\:/
-    - Business requirements
-    - Technical Requirements
-    - Reading between those lines
-    - Designing
-    - Implementation
-    - Certification
-    - 3rd Party Audit
-  to keep building on your relationship with Amazon and AWS. 
+  file: partnership
   button: We can help
   bullets:
     - AWS Premier Partner
