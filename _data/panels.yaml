@@ -12,6 +12,7 @@
     - Architecture review
     - Right-sizing
     - Pricing models
+    - Storage
 
 - title: Cloud Transformation
   style: success
@@ -34,7 +35,7 @@
   blurb: > 
     With decades of IT and AWS experience under our belt we give you the benefit of our experienced technical ownership and oversight.
     We design efficient, well architected solutions for your needs, big and small.
-    We will work closely with your stakeholders, evangelise the business and technical objectives
+    We will work closely with your stakeholders, evangelise your business and technical objectives
     and help you deliver on reliable, secure, and trusted solutions.
   button: Let's Build!
   bullets:
@@ -47,9 +48,22 @@
   icon: handshake
   mascot: moo
   blurb: >
-    Recently we have just elevated an AWS Partner to the highest tier in AWS.
-    From the inital identification of the next competency to drive greater customer adoption (and revenue),
-    to designing and implementing the operational requirements to keep building on AWS partnership, we can help.
+
+  We can help with your partnership with Amazon. Just starting? Got a few competencie's already? 
+  We have the experience and the knowhow to help you achieve AWS Premier Partners's of Amazon. 
+  Where will help \:/
+    - Speed up your certification
+    - Deep understanding of the Amazon culture
+    - Derive more value to you and your customers
+  From\:/
+    - Business requirements
+    - Technical Requirements
+    - Reading between those lines
+    - Designing
+    - Implementation
+    - Certification
+    - 3rd Party Audit
+  to keep building on your relationship with Amazon and AWS. 
   button: We can help
   bullets:
     - AWS Premier Partner
