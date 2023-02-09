@@ -19,7 +19,8 @@
   file: transformation
   button: Let's go!
   bullets:
-    - Cloud migrations
+    - Business justification/vision
+    - Migrations
     - Landing zones
     - Application modernisation
 
@@ -32,7 +33,7 @@
   bullets:
     - Account structure 
     - Architecture review
-    - Technical evangelism 
+    - Technical evangelism
 
 - title: AWS Partnership
   style: error

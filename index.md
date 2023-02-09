@@ -5,7 +5,7 @@ title: About XLcloud
 
 XLcloud is here to help you with your Cloud adoption. We were not born in the cloud. Our experience is much older than the cloud and all that that AWS can deliver. 
 
-Our experiences range from Global Enterprises to startups. From cloud native to on-premises customers. 
+Our experiences ranges from Global Enterprises to startups. From cloud native to on-premises customers. 
 
 We can help with all those questions and approaches around how to make best use of Amazon Web Services.
 

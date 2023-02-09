@@ -1,12 +1,13 @@
-We can help with your partnership with Amazon. Just starting? Got a few competencie's already? 
-We have the experience and the knowhow to help you achieve AWS Premier Partners's of Amazon. 
+We can help with your partnership with Amazon. Just starting? Got a few competencies already? 
+We have the coal face experience and the knowhow to help you achieve AWS Premier Partners's of Amazon. 
 
-Where will help:
+Where we will help:
 * Speed up your certification
 * Deep understanding of the Amazon culture
+* Understanding of the business impact AWS will make
 * Derive more value to you and your customers
 
-From:
+What do we deliver:
 * Business requirements
 * Technical Requirements
 * Reading between those lines
@@ -14,4 +15,5 @@ From:
 * Implementation
 * Certification
 * 3rd Party Audit
+  
 to keep building on your relationship with Amazon and AWS. 

@@ -1,2 +1,2 @@
-We are specialists in the field of cost optimisation.
-From “low hanging fruit” to purchase plans all the way to supporting you working directly with AWS.
+We have decades working with AWS as well as cost optimisation.
+From “low hanging fruit” to purchase plans (RI's, Saving Plans) all the way to supporting you working directly with AWS to attain a greater level of cost savings albeit with those strings attached ;)
