@@ -14,6 +14,6 @@ What do we deliver:
 * Designing
 * Implementation
 * Certification
-* 3rd Party Audit
+* Support with 3rd Party Audits
   
 to keep building on your relationship with Amazon and AWS. 
